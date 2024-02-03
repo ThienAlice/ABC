@@ -1,4 +1,2 @@
 # ABC
 # CDE
-
-# Git Log
