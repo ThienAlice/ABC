@@ -1,3 +1,0 @@
-# ABD
-# Yellow
-# Red
